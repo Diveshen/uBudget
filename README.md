@@ -35,15 +35,9 @@ uBudget was initially built using **Xamarin.Forms** and later migrated to **.NET
 
 ---
 
-## Screenshots
+## Screenshot
 
-### Dashboard
-![Dashboard](docs/screenshots/dashboard.png)
+![Dashboard](images/ubudget.png)
 
-### Add Transaction
-![Add Transaction](docs/screenshots/add-transaction.png)
-
-### Summary
-![Summary](docs/screenshots/summary.png)
 
 ---
