@@ -2,6 +2,8 @@
 
 uBudget is a budgeting app that helps users track their expenses and manage their budget in an intuitive and lightweight design. It follows the **Model-View-ViewModel (MVVM)** architecture and offers key features like budget tracking, monthly summaries, and data security.
 
+[Download on the App Store](https://apps.apple.com/us/app/ubudget/id1464366693)
+
 ## Architecture: MVVM
 
 uBudget follows the **Model-View-ViewModel (MVVM)** architecture, ensuring:
@@ -9,7 +11,7 @@ uBudget follows the **Model-View-ViewModel (MVVM)** architecture, ensuring:
 - **Scalability**: Easy to maintain and extend functionality.
 - **Testability**: ViewModel is isolated for unit testing.
 
-### Diagram
+### High Level
 
 1. **View**: Displays data and handles user interaction.
 2. **ViewModel**: Contains app logic and transforms data for the View.
@@ -31,13 +33,12 @@ uBudget was initially built using **Xamarin.Forms** and later migrated to **.NET
 - **Budget Tracking**: Categorize and monitor your expenses.
 - **Monthly Summary**: Overview of income, expenses, and remaining budget.
 - **Lightweight Design**: Intuitive user interface.
-- **Data Security**: All data processing on the device and no tracking on the budget data.
+- **Data Security**: All data processing on the device and no tracking of user budget data.
 
 ---
 
 ## Screenshot
 
-![Dashboard](images/ubudget.png)
-
+<img src="images/ubudget.png" style="width:30%; height:auto;">
 
 ---
