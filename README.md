@@ -18,8 +18,6 @@ uBudget follows the **Model-View-ViewModel (MVVM)** architecture, ensuring:
 3. **Model**: Represents the data structure.
 4. **Repository**: Abstracted database layer to handle data storage and retrieval.
 
----
-
 ## Design and Technology Stack
 
 uBudget was initially built using **Xamarin.Forms** and later migrated to **.NET MAUI** to improve performance and cross-platform compatibility.
@@ -27,15 +25,11 @@ uBudget was initially built using **Xamarin.Forms** and later migrated to **.NET
 - **Xamarin.Forms**: Initially used to build the app with a shared codebase for iOS and Android.
 - **.NET MAUI**: Updated to MAUI to take advantage of its modern features, enhanced performance, and better support for all platforms.
 
----
-
 ## Key Features
 - **Budget Tracking**: Categorize and monitor your expenses.
 - **Monthly Summary**: Overview of income, expenses, and remaining budget.
 - **Lightweight Design**: Intuitive user interface.
 - **Data Security**: All data processing on the device and no tracking of user budget data.
-
----
 
 ## Screenshot
 
