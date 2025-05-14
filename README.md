@@ -4,6 +4,8 @@ uBudget is a budgeting app that helps users track their expenses and manage thei
 
 [Download on the App Store](https://apps.apple.com/us/app/ubudget/id1464366693)
 
+[Download on the Play Store](https://play.google.com/store/apps/details?id=com.diveshengovender.ubudget)
+
 ## Architecture: MVVM
 
 uBudget follows the **Model-View-ViewModel (MVVM)** architecture, ensuring:
