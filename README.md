@@ -24,6 +24,7 @@ uBudget was initially built using **Xamarin.Forms** and later migrated to **.NET
 
 - **Xamarin.Forms**: Initially used to build the app with a shared codebase for iOS and Android.
 - **.NET MAUI**: Updated to MAUI to take advantage of its modern features, enhanced performance, and better support for all platforms.
+- **Flutter**: Updated to Flutter
 
 ## Key Features
 - **Budget Tracking**: Categorize and monitor your expenses.
